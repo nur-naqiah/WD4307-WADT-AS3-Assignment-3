@@ -45,11 +45,7 @@
         class="mt-4 text-xs font-medium flex items-center row-start-2 sm:mt-1 sm:row-start-3 md:mt-2.5 lg:row-start-2"
       >
         <dt class="sr-only">Contact</dt>
-        <dd class="text-pink-600 flex items-center dark:text-pink-400">
-          <span
-            >+673 711 1111 <span class="text-slate-400 font-normal"></span
-          ></span>
-        </dd>
+        <dd class="text-pink-600 flex items-center dark:text-pink-400"></dd>
         <dt class="sr-only">Email</dt>
         <dd class="flex items-center">
           <svg
